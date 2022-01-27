@@ -1,0 +1,37 @@
+โค๊ดกางแขน
+bone_Head > bone_Spine
+_________________________________________
+
+ไม่กางแขนหัวไม่ขาด Boy only
+bone Head> bone_Neck
+
+bone_Hips_Dummy > bone_Head
+_________________________________________
+
+หัวใหญ่
+bone_Neck > bone_Head
+1.55555558
+_________________________________________
+
+AUTO Head shot 2
+bone_Spine1 > bone_Head
+bone_Leftarm > bone_leftHead
+bone_lefthand > bone_leftHead
+bone_rightarm > bone_rightHead
+bone_righthand > bone rightHead
+_________________________________________
+Antenna Hand
+
+Female
+ [4]  500.000000
+
+Male
+[16]  500.000000
+
+_________________________________________
+Antenna Head
+Male
+[30]  500.000000
+
+Female
+[24]  500.000000
